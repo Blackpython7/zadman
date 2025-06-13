@@ -190,7 +190,7 @@ async def group_info(event) -> None:
     msg += f"\nᴜsᴇʀs: `{totallist.total}`"
     msg += "\n\n**ᴀᴅᴍɪɴs ʟɪsᴛ:**"
     for x in totallist:
-        msg += f"\n• [{x.id}](tg://user?id={x.id})"
+        msg += f'\n• <a href="https://t.me/{x.username if x.username else f"user?id={x.id}"}">{x.first_name}</a>'
     msg += f"\n\n**ᴅᴇsᴄʀɪᴩᴛɪᴏɴ**:\n`{ch_full.full_chat.about}`"
     await event.reply(msg)
 
