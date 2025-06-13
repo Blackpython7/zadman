@@ -86,7 +86,7 @@ buttons = [
         
         InlineKeyboardButton(text="🛡️", callback_data="mukesh_"),
         InlineKeyboardButton(text="💳", callback_data="source_"),
-        InlineKeyboardButton(text="🧑‍💻", url=f"tg://user?id={OWNER_ID}"),
+        InlineKeyboardButton(text="🧑‍💻", url=f"https://t.me/eczade"),
         InlineKeyboardButton(text="🖥️", callback_data="Main_help"),
      ],
     [
