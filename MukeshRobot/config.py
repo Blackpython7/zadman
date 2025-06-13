@@ -11,7 +11,7 @@ class Config(object):
     EVENT_LOGS = -1002598297381  # Log group
     
     MONGO_DB_URI = "mongodb+srv://teamdaxx123:teamdaxx123@cluster0.ysbpgcp.mongodb.net/?retryWrites=true&w=majority"
-    DATABASE_URL = "postgres://iarfggbc:Vxzh_kG7cxa1kHR5faxcd1kuA4R-UT9E@rosie.db.elephantsql.com/iarfggbc"  # ElephantsQL or similar DB URI
+    DATABASE_URL = "postgresql://neondb_owner:npg_j6VxXRk2PiGq@ep-bold-frost-a10v7t7h-pooler.ap-southeast-1.aws.neon.tech/neondb?sslmode=require"  # ElephantsQL or similar DB URI
 
     CASH_API_KEY = "cash_api_key_here"  # Can be from https://www.alphavantage.co
     TIME_API_KEY = "time_api_key_here"  # From https://timezonedb.com or similar
