@@ -3,7 +3,7 @@ class Config(object):
     
     API_ID = 25431765
     API_HASH = "f86261c85d80a06b9d5824f9186b7427"
-    TOKEN = "7843703186:AAFO-nNbqSc2ndcKkinqj0D-qdm2EanfCU"  # Bot Token
+    TOKEN = "7914858818:AAHAhVBtj0KHVmha7yK4ZdbntvWKfQMh904"  # Bot Token
     OWNER_ID = 123456789  # ← Apna Telegram user ID daal yahan
     
     SUPPORT_CHAT = "elivationn"  # Without @
