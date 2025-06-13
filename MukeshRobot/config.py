@@ -7,7 +7,7 @@ class Config(object):
     OWNER_ID = 123456789  # ← Apna Telegram user ID daal yahan
     
     SUPPORT_CHAT = "elivationn"  # Without @
-    START_IMG = "https://telegra.ph/file/8a2395c0c5bc3e1797d1e.jpg"
+    START_IMG = "https://files.catbox.moe/mk1wan.jpg"
     EVENT_LOGS = -1002598297381  # Log group
     
     MONGO_DB_URI = "mongodb+srv://teamdaxx123:teamdaxx123@cluster0.ysbpgcp.mongodb.net/?retryWrites=true&w=majority"
