@@ -375,7 +375,7 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
                     [
         InlineKeyboardButton(text="🏡", callback_data="mukesh_back"),
         InlineKeyboardButton(text="💳", callback_data="source_"),
-        InlineKeyboardButton(text="🧑‍💻", url=f"tg://user?id={OWNER_ID}"),
+        InlineKeyboardButton(text="🧑‍💻", url=f"https://t.me/eczade"),
         InlineKeyboardButton(text="🖥️", callback_data="Main_help"),
      ],
                     [
@@ -388,7 +388,7 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
                     ],
                     [
                         InlineKeyboardButton(
-                            text="👨‍💻ᴅᴇᴠᴇʟᴏᴩᴇʀ", url=f"tg://user?id={OWNER_ID}"
+                            text="👨‍💻ᴅᴇᴠᴇʟᴏᴩᴇʀ", url=f"https://t.me/eczade"
                         ),
                         InlineKeyboardButton(
                             text="🥀sᴏᴜʀᴄᴇ",
@@ -411,7 +411,7 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
         InlineKeyboardButton(text="🏡", callback_data="mukesh_back"),
         InlineKeyboardButton(text="🛡️", callback_data="mukesh_"),
         InlineKeyboardButton(text="💳", callback_data="source_"),
-        InlineKeyboardButton(text="🧑‍💻", url=f"tg://user?id={OWNER_ID}"),
+        InlineKeyboardButton(text="🧑‍💻", url=f"https://t.me/eczade"),
         InlineKeyboardButton(text="🖥️", callback_data="Main_help"),
      ],
                     [
@@ -424,7 +424,7 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
                     ],
                     [
                         InlineKeyboardButton(
-                            text="🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ", url=f"tg://user?id={OWNER_ID}"
+                            text="🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ", url=f"https://t.me/eczade"
                         ),
                         InlineKeyboardButton(
                             text="ɢɪᴛʜᴜʙ 🍹", url="\x68\x74\x74\x70\x73\x3A\x2F\x2F\x67\x69\x74\x68\x75\x62\x2E\x63\x6F\x6D\x2F\x6E\x6F\x6F\x62\x2D\x6D\x75\x6B\x65\x73\x68"
@@ -582,7 +582,7 @@ Yᴏᴜ ᴄᴀɴ ʜᴇʟᴘ ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ᴡɪᴛʜ 
         InlineKeyboardButton(text="🏡", callback_data="mukesh_back"),
         InlineKeyboardButton(text="🛡️", callback_data="mukesh_"),
         InlineKeyboardButton(text="💳", callback_data="source_"),
-        InlineKeyboardButton(text="🧑‍💻", url=f"tg://user?id={OWNER_ID}"),
+        InlineKeyboardButton(text="🧑‍💻", url=f"https://t.me/eczade"),
         InlineKeyboardButton(text="🖥️", callback_data="Main_help"),
      ],
                     [
@@ -622,7 +622,7 @@ def Source_about_callback(update: Update, context: CallbackContext):
         InlineKeyboardButton(text="🏡", callback_data="mukesh_back"),
         InlineKeyboardButton(text="🛡️", callback_data="mukesh_"),
         InlineKeyboardButton(text="💳", callback_data="source_"),
-        InlineKeyboardButton(text="🧑‍💻", url=f"tg://user?id={OWNER_ID}"),
+        InlineKeyboardButton(text="🧑‍💻", url=f"https://t.me/eczade"),
         InlineKeyboardButton(text="🖥️", callback_data="Main_help"),
      ],[InlineKeyboardButton(text="◁", callback_data="source_back")]]
             ),
@@ -652,7 +652,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
         InlineKeyboardButton(text="🏡", callback_data="mukesh_back"),
         InlineKeyboardButton(text="🛡️", callback_data="mukesh_"),
         InlineKeyboardButton(text="💳", callback_data="source_"),
-        InlineKeyboardButton(text="🧑‍💻", url=f"tg://user?id={OWNER_ID}"),
+        InlineKeyboardButton(text="🧑‍💻", url=f"https://t.me/eczade"),
         InlineKeyboardButton(text="🖥️", callback_data="Main_help"),
      ],
                     [
